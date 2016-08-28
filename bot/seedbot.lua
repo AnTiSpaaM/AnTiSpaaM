@@ -226,26 +226,16 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {95837751},--Sudo users
+    sudo_users = {265801248},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Spiran_TG
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[AnTi SpaaM Tm
 
 Our team!
-aQa.ALi (@Mr_AL-i)
-DRAGON (@Developer_001)
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+sudo (@abar_sudo_telegram)
 
 Our channels:
-Persian: @SPIRAN_CHANNEL
+Persian: @AnTi_SpaaM
 ]],
     help_text_realm = [[
 دستورات ریلیم(گروه) :
@@ -328,9 +318,9 @@ Persian: @SPIRAN_CHANNEL
  
 * فقط admins و sudo می‌توانند از  فرمان‌های setowner ، و اطلاعات يوزر موردنظر و دستورات خاص استفاده كنند.
 
-🔰Spiran_TG🔰@SPIRAN_CHANNEL
-FOLLOW US...
-SPIRAN TEAM😘
+🔰AnTi SpaaM🔰@AnTi_SpaaM
+
+AnTi SpaaM TEAM😘
 
 ]],
     help_text = [[
@@ -423,9 +413,9 @@ SPIRAN TEAM😘
  
 * فقط admins و sudo می‌توانند از  فرمان‌های setowner ، و اطلاعات يوزر موردنظر و دستورات خاص استفاده كنند.
 
-🔰Spiran_TG🔰@SPIRAN_CHANNEL
-FOLLOW US...
-SPIRAN TEAM😘
+🔰AnTi SpaaM🔰@AnTi_SpaaM
+
+AnTi SpaaM TEAM😘
 
 ]]
   }
